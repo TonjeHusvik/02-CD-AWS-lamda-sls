@@ -1,5 +1,7 @@
 # GitHub actions, AWS Lambda med API Gateway og AWS SAM
 
+skkrt skkrt
+
 * I denne øvingen skal vi se på Github actions og hvordan vi kan sette opp en CD pipeline for en AWS Lambdafunksjon. 
 Vi skal bruke AWS tjenesten "Comprehend" for å finne "stemningen" (Sentiment) i en tekst- og om den er negativt eller positivt 
 ladet. 
